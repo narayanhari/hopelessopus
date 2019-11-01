@@ -1,0 +1,21 @@
+.nav{
+    background-color: #111;
+    margin-bottom: 0px;
+}
+
+.rounded{
+	margin: 10px !important;
+}
+a.nav-link{
+	background-color: #343a40;
+}
+.blink{
+	animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker{
+
+	50%{
+		opacity: 0;
+	}
+}

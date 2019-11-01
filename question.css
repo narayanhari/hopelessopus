@@ -1,0 +1,31 @@
+.nav{
+    background-color: #fff;
+    margin-bottom: 1%;
+}
+.box{
+    border-radius: 10px 10px;
+    background: linear-gradient(to bottom right, #dedce8, #f9f9f9,#1111);
+    opacity: 0.8;
+    margin-bottom: 5%;
+}
+.nav-link {
+    
+    background-color:blue;
+}
+/*
+.mcq{
+    align-content: center;
+    text-align: center;
+}*/
+.button
+{
+    background-color: #111;
+    backface-visibility: hidden;
+    border: none !important; 
+    color : #f1f1f1;
+    font-size: 17px;
+}
+
+a.nav-link{
+    background-color: #343a40;
+}
